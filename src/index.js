@@ -1,17 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import App from "./App";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  // <React.StrictMode>
+  <App />
+  // </React.StrictMode>
 );
+// 최초 리액트앱 생성시 할일
+// app.js index.js빼고 다지우기, 필요없는 import삭제
+// 기본 코드삭제
+// proptypes 설치하기 npm i prop-types 터미널에입력
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+//props는 받을때 중괄호로 받아야함
