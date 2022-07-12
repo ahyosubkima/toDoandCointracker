@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/toDoandCointracker/static/js/main.7ed42498.js",
+    "main.css": "/toDoandCointracker/static/css/main.69d029d3.css",
+    "main.js": "/toDoandCointracker/static/js/main.b9067ea8.js",
     "index.html": "/toDoandCointracker/index.html",
-    "main.7ed42498.js.map": "/toDoandCointracker/static/js/main.7ed42498.js.map"
+    "main.69d029d3.css.map": "/toDoandCointracker/static/css/main.69d029d3.css.map",
+    "main.b9067ea8.js.map": "/toDoandCointracker/static/js/main.b9067ea8.js.map"
   },
   "entrypoints": [
-    "static/js/main.7ed42498.js"
+    "static/css/main.69d029d3.css",
+    "static/js/main.b9067ea8.js"
   ]
 }
